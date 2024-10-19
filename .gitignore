@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+minimal-mistakes-jekyll*
+auto_pull.sh
+pull_logs.txt
